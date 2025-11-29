@@ -1,8 +1,16 @@
 {
   "name": "kursor-theme",
   "displayName": "Kursor Theme",
-  "description": "",
+  "description": "Cursor-inspired color themes for VS Code",
   "version": "0.0.1",
+  "publisher": "brandonpalmeros",
+  "repository": "https://github.com/brandonpaldom/kursor-theme",
+  "icon": "icon.png",
+  "keywords": ["theme", "dark", "light", "cursor", "minimal", "high-contrast"],
+  "galleryBanner": {
+    "color": "#181818",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.106.1"
   },
@@ -12,9 +20,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Kursor Theme",
+        "label": "Kursor Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Kursor Theme-color-theme.json"
+        "path": "./themes/Kursor Dark-color-theme.json"
+      },
+      {
+        "label": "Kursor Light",
+        "uiTheme": "vs",
+        "path": "./themes/Kursor Light-color-theme.json"
+      },
+      {
+        "label": "Kursor Dark High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/Kursor Dark High Contrast-color-theme.json"
+      },
+      {
+        "label": "Kursor Dark Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kursor Dark Midnight-color-theme.json"
       }
     ]
   }
