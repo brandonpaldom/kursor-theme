@@ -2,7 +2,7 @@
   "name": "kursor-theme",
   "displayName": "Kursor Theme",
   "description": "Cursor-inspired color themes for VS Code",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "brandonpalmeros",
   "repository": "https://github.com/brandonpaldom/kursor-theme",
   "icon": "icon.png",
