@@ -5,6 +5,8 @@
 
 A collection of Cursor-inspired color themes for Visual Studio Code. These themes bring the clean, minimal aesthetic of Cursor to your VS Code experience.
 
+![Kursor Theme Screen](https://res.cloudinary.com/dlomynswh/image/upload/v1768013997/kursor-theme/Captura_de_pantalla_2026-01-09_a_la_s_8.57.40_p.m..png)
+
 ## Themes
 
 ### Kursor Dark
